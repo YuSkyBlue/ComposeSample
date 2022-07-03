@@ -14,7 +14,6 @@ import androidx.navigation.NavController
 import com.example.sample_navigation1.Screen
 
 @Composable
-
 fun DetailScreen(
     navController : NavController
 ) {
